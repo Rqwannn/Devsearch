@@ -1,6 +1,6 @@
 # DevSearch
 
-Sourcode and Resources for Django 2021 Course
+Sourcode and Resources
 
 # Installation
 
