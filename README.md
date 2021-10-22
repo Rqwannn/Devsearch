@@ -1,6 +1,6 @@
 # DevSearch
 
-Sourcode and Resources
+Aplikasi Python Pertama
 
 # Installation
 
